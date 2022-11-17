@@ -1,31 +1,40 @@
 [{
 	"NAME":"日本語",
-	"ID":"JP"
+	"ID":"JP",
+	"DIL":"LTR"
 },{
 	"NAME":"English USA",
-	"ID":"EN_US"
+	"ID":"EN_US",
+	"DIL":"LTR"
 },{
 	"NAME":"English UK",
-	"ID":"EN_UK"
+	"ID":"EN_UK",
+	"DIL":"LTR"
 },{
 	"NAME":"English Ireland",
 	"ID":""
 },{
 	"NAME":"Հայերեն",
-	"ID":"HYS"
+	"ID":"HYS",
+	"DIL":"LTR"
 },{
 	"NAME":"اللغة العربية",
-	"ID":"ALB"
+	"ID":"ALB",
+	"DIL":"RTL"
 },{
 	"NAME":"עברית",
-	"ID":"HBL"
+	"ID":"HBL",
+	"DIL":"RTL"
 },{
 	"NAME":"Монгол хэл",
-	"":"MONG_KIRI"
+	"":"MONG_KIRI",
+	"DIL":"LTR"
 },{
 	"NAME":"ᠮᠤᠩᠭᠤᠯ ᠬᠡᠯᠡ",
-	"ID":"MONG_MONG"
+	"ID":"MONG_MONG",
+	"DIL":"LTR"
 },{
 	"NAME":"русский язык",
-	"ID":"RU"
+	"ID":"RU",
+	"DIL":"LTR"
 }]
