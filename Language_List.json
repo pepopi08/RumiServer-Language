@@ -1,0 +1,31 @@
+[{
+	"NAME":"日本語",
+	"ID":"JP"
+},{
+	"NAME":"English USA",
+	"ID":"EN_US"
+},{
+	"NAME":"English UK",
+	"ID":"EN_UK"
+},{
+	"NAME":"English Ireland",
+	"ID":""
+},{
+	"NAME":"Հայերեն",
+	"ID":"HYS"
+},{
+	"NAME":"اللغة العربية",
+	"ID":"ALB"
+},{
+	"NAME":"עברית",
+	"ID":"HBL"
+},{
+	"NAME":"Монгол хэл",
+	"":"MONG_KIRI"
+},{
+	"NAME":"ᠮᠤᠩᠭᠤᠯ ᠬᠡᠯᠡ",
+	"ID":"MONG_MONG"
+},{
+	"NAME":"русский язык",
+	"ID":"RU"
+}]
