@@ -3,6 +3,10 @@
 	"ID":"JP",
 	"DIL":"LTR"
 },{
+	"NAME":"<R class=\"fontchange_hm\">Hymmnos</R>",
+	"ID":"HYMN",
+	"DIL":"LTR"
+},{
 	"NAME":"English USA",
 	"ID":"EN_US",
 	"DIL":"LTR"
