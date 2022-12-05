@@ -1,18 +1,19 @@
 [{
 	"NAME":"<R class=\"fontchange_hm\">Hymmnos</R>",
 	"DIL":"LTR",
-	"Rumiserver_name":"るみさーばー | ベータ",
-	"Err":"エラー",
-	"ogp_desc":"るみさーばー まだベータ版",
-	"Legacy_System_OK":"レガシな環境対応",
-	"Legacy_System_NO":"レガシな環境非対応",
-	"RumisanRoom_name":"るみさんのお部屋(兼公式サイト)",
-	"RumiSystem_official_site":"るみしすてむ公式サイト",
-	"RumiaLand_name":"ルーミアランド",
-	"RumiVideo_name":"るみビデオ",
-	"Iroha_name":"いろは",
-	"Mstdn_instance_name":"マストドンのインスタンス(るみさんのハッピー共産主義＆資本主義ルーミアワールド)",
-	"Minecraf_server_rule":"マイクラサーバールール",
-	"Rumiserver_help":"るみさーばー ヘルプ",
-	"Ads":"[広告](クリックしてくれると嬉しいです)"
+	"Rumiserver_name":"<R class=\"fontchange_hm\">RumiServer</R> | <R class=\"fontchange_hm\">Beta</R>",
+	"Err":"<R class=\"fontchange_hm\">Error</R>",
+	"ogp_desc":"<R class=\"fontchange_hm\">RumiServer</R> <R class=\"fontchange_hm\">elye beta</R>",
+	"Legacy_System_OK":"<R class=\"fontchange_hm\">legacy</R>",
+	"Legacy_System_NO":"<R class=\"fontchange_hm\">legacy</R>",
+	"RumisanRoom_name":"<R class=\"fontchange_hm\">Rumisan Room(and Official site)</R>",
+	"RumiSystem_official_site":"<R class=\"fontchange_hm\">RumiSystem Official</R>",
+	"RumiaLand_name":"<R class=\"fontchange_hm\">Rumia Land</R>",
+	"RumiVideo_name":"<R class=\"fontchange_hm\">RumiVideo</R>",
+	"Iroha_name":"<R class=\"fontchange_hm\">IROHA</R>",
+	"Mstdn_instance_name":"<R class=\"fontchange_hm\">Mstdn INSTANCE</R>(るみさんのハッピー共産主義＆資本主義ルーミアワールド)",
+	"Minecraf_server_rule":"<R class=\"fontchange_hm\">Minecraft rules</R>",
+	"Rumiserver_help":"<R class=\"fontchange_hm\">RumiServer Help</R>",
+	"Ads":"[<R class=\"fontchange_hm\">ADS</R>](<R class=\"fontchange_hm\">Now Clicked</R>)"
+	//だれか翻訳してくれ、わたしにヒュムノス語は無理だ
 }]
