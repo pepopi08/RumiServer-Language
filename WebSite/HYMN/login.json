@@ -1,11 +1,11 @@
 [{
-	"NAME":"日本",
+	"NAME":"<R class=\"fontchange_hm\">Hymmnos</R>",
 	"DIL":"LTR",
-	"Login":"ログイン",
-	"Regist":"アカウントを作成",
-	"Next":"次へ",
-	"ERR":"Error",
-	"Username":"ユーザー名を入力",
-	"Password":"パスワードを入力",
-	"pass_view":"表示"
+	"Login":"<R class=\"fontchange_hm\">Login</R>",
+	"Regist":"<R class=\"fontchange_hm\">Create Account</R>",
+	"Next":"<R class=\"fontchange_hm\">nx</R>",
+	"ERR":"<R class=\"fontchange_hm\">Error</R>",
+	"Username":"<R class=\"fontchange_hm\">UserID f.w.r</R>",
+	"Password":"<R class=\"fontchange_hm\">Pasword f.w.r</R>",
+	"pass_view":"<R class=\"fontchange_hm\">Password aulla</R>"
 }]
