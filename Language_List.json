@@ -3,43 +3,7 @@
 	"ID":"JP",
 	"DIL":"LTR"
 },{
-	"NAME":"Hymmnos",
-	"ID":"HYMN",
-	"DIL":"LTR"
-},{
-	"NAME":"English USA",
-	"ID":"EN_US",
-	"DIL":"LTR"
-},{
-	"NAME":"English UK",
-	"ID":"EN_UK",
-	"DIL":"LTR"
-},{
-	"NAME":"English Ireland",
-	"ID":"EN_IRL",
-	"DIL":"LTR"
-},{
-	"NAME":"Հայերեն",
-	"ID":"HYS",
-	"DIL":"LTR"
-},{
-	"NAME":"اللغة العربية",
-	"ID":"ALB",
-	"DIL":"RTL"
-},{
-	"NAME":"עברית",
-	"ID":"HBL",
-	"DIL":"RTL"
-},{
-	"NAME":"Монгол хэл",
-	"ID":"MONG_KIRI",
-	"DIL":"LTR"
-},{
-	"NAME":"ᠮᠤᠩᠭᠤᠯ ᠬᠡᠯᠡ",
-	"ID":"MONG_MONG",
-	"DIL":"LTR"
-},{
-	"NAME":"русский язык",
-	"ID":"RU",
+	"NAME":"JK語(つくりかけ)",
+	"ID":"JPJK",
 	"DIL":"LTR"
 }]
