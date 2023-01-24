@@ -18,7 +18,8 @@
 	"RumiSNS_desc":"ふつうのSNS",
 	"Iroha_name":"いろは",
 	"Iroha_desc":"五七五しか投稿できないSNS",
-	"Mstdn_instance_name":"マストドンのインスタンス(るみさんのハッピー共産主義＆資本主義ルーミアワールド)",
+	"Mstdn_instance_name":"マストドンのインスタンス",
+	"Mstdn_instance_desc":"るみさんのハッピー共産主義＆資本主義ルーミアワールド",
 	"Minecraf_server_rule":"マイクラサーバールール",
 	"Rumiserver_help":"るみさーばー ヘルプ",
 	"Ads":"[広告](クリックしてくれると嬉しいです)"
