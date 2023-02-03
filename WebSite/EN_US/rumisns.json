@@ -1,8 +1,8 @@
 {
-	"NAME":"日本",
+	"NAME":"USA",
 	"DIL":"LTR",
-	"LOGINR_LOGIN_NOW":"ログインする",
+	"LOGINR_LOGIN_NOW":"I'm logging in!",
 	"LOGINR_WHATTHERUMISNS_TITLE":"What the RumiSNS?",
-	"LOGINR_WHATTHERUMISNS_TEXT":"(るみSNSってなーんだ！)<BR>るみSNSは 自由度が高く、高機能なSNSです。<BR>Twitterみたいなやつだよ！<BR>まあ、使えば分かる、つかってみてね！<BR>イタㇰ => ツイートとか、トゥートとかそういう感じ<BR>ウコイタㇰ => リプライのこと、まあ実際はDB上でもイタㇰと同じ扱いなんだけど<BR>(ちなみに、イタㇰとかはアイヌ語です、アイヌ語で言葉とか言語とかそういう意味だったはず、ウコイタㇰは忘れた) ",
+	"LOGINR_WHATTHERUMISNS_TEXT":"(What the heck is Rumi SNS!)<BR>RumiSNS is a highly flexible and sophisticated social networking service.<BR>Kind of like Twitter!<BR>Well, you'll know it when you use it, try it!<BR>Itak => Tweets, toots, that kind of thing.<BR>UkoItak => The reply, well, actually it's treated the same as Itak on the DB.<BR>(By the way, Itak or something like that is an Ainu word, I think it meant language or words in Ainu, I forget UkoItak)",
 	"LOGINR_LATEST_ITAK_TITLE":"最新のイタㇰ"
 }
