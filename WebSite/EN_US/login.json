@@ -1,11 +1,11 @@
 {
-	"NAME":"日本",
+	"NAME":"USA",
 	"DIL":"LTR",
-	"Login":"ログイン",
-	"Regist":"アカウントを作成",
-	"Next":"次へ",
+	"Login":"Login",
+	"Regist":"Create an account",
+	"Next":"Next",
 	"ERR":"Error",
-	"Username":"ユーザー名を入力",
-	"Password":"パスワードを入力",
-	"pass_view":"表示"
+	"Username":"Enter your user name",
+	"Password":"Enter your password",
+	"pass_view":"display"
 }
