@@ -6,4 +6,8 @@
 	"NAME":"English USA",
 	"ID":"EN_US",
 	"DIL":"LTR"
+},{
+	"NAME":"中文",
+	"ID":"CHINESE",
+	"DIL":"LTR"
 }]
