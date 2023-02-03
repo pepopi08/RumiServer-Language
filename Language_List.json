@@ -2,4 +2,8 @@
 	"NAME":"日本語",
 	"ID":"JP",
 	"DIL":"LTR"
+},{
+	"NAME":"English USA",
+	"ID":"EN_US",
+	"DIL":"LTR"
 }]
