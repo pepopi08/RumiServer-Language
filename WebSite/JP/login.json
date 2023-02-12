@@ -8,5 +8,6 @@
 	"ERR":"Error",
 	"Username":"ユーザー名を入力",
 	"Password":"パスワードを入力",
-	"pass_view":"表示"
+	"pass_view":"表示",
+	"LOGIN_INFO":"ログインの方法がわからない場合はここをクリックして！"
 }
