@@ -1,14 +1,4 @@
 {
 	"NAME":"日本",
-	"DIL":"LTR",
-	"SERVICE_NAME":"るみのゔぇらー",
-	"LOGIN_NOW":"ログインしましょう！",
-	"UPLOAD":"投稿",
-	"EDIT":"編集",
-	"NOW_READ":"今すぐ読む",
-	"LOADING":"読み込み中～",
-	"NOVELLIST_SORT_VIEW_COUNT":"視聴回数",
-	"NOVELLIST_SORT_DATE":"日付順",
-	"VIEW_COUNT":"回みられました",
-	"PNF":"おさがしの作品は見つかりません"
+	"DIL":"LTR"
 }
