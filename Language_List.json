@@ -10,4 +10,8 @@
 	"NAME":"中文",
 	"ID":"CHINESE",
 	"DIL":"LTR"
+},{
+	"NAME":"⡆⣔⣠⠠⢔",
+	"ID":"JP_TEN",
+	"DIL":"LTR"
 }]
