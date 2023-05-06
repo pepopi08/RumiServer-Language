@@ -2,16 +2,4 @@
 	"NAME":"日本語",
 	"ID":"JP",
 	"DIL":"LTR"
-},{
-	"NAME":"English USA",
-	"ID":"EN_US",
-	"DIL":"LTR"
-},{
-	"NAME":"中文",
-	"ID":"CHINESE",
-	"DIL":"LTR"
-},{
-	"NAME":"⡆⣔⣠⠠⢔",
-	"ID":"JP_TEN",
-	"DIL":"LTR"
 }]
