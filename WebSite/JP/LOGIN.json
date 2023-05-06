@@ -3,5 +3,7 @@
 	"Regist":"アカウント作成",
 	"BACK":"戻る",
 	"LOGIN_INFO":"ログインの方法がわからない場合はここをクリックして！",
-	"RUMI_SERVER":"るみさーばー"
+	"RUMI_SERVER":"るみさーばー",
+	"PASS_VIEW":"パスワードを表示",
+	"RUMISERVER_LOGIN":"るみさーばーアカウントでログイン"
 }
