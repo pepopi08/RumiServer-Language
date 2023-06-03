@@ -2,10 +2,10 @@
 	"Login":"ログイン",
 	"Regist":"アカウント作成",
 	"BACK":"戻る",
-	"LOGIN_INFO":"ログインの方法がわからない場合はここをクリックして！",
+	"LOGIN_INFO":"もしわからないログイン、クリックここを",
 	"RUMI_SERVER":"るみさーばー",
-	"PASS_VIEW":"パスワードを表示",
-	"RUMISERVER_LOGIN":"るみさーばーアカウントでログイン",
+	"PASS_VIEW":"表示パスワード",
+	"RUMISERVER_LOGIN":"ログインするるみ鯖アカウント",
 	"USER_ID":"ユーザーID",
 	"PASSWORD":"パスワード"
 }
