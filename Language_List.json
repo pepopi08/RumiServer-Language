@@ -1,9 +1,16 @@
 [{
 	"NAME":"日本語",
+	"FLAG":"JP",
 	"ID":"JP",
 	"DIL":"LTR"
 },{
 	"NAME":"おかしい日本語",
+	"FLAG":"JP",
 	"ID":"JP_OMG",
+	"DIL":"LTR"
+},{
+	"NAME":"USA english lang",
+	"FLAG":"USA",
+	"ID":"EN_US",
 	"DIL":"LTR"
 }]
