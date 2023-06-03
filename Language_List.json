@@ -2,4 +2,8 @@
 	"NAME":"日本語",
 	"ID":"JP",
 	"DIL":"LTR"
+},{
+	"NAME":"おかしい日本語",
+	"ID":"JP_OMG",
+	"DIL":"LTR"
 }]
