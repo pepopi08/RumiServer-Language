@@ -4,6 +4,11 @@
 	"ID":"JP",
 	"DIL":"LTR"
 },{
+	"NAME":"るみ日本語",
+	"FLAG":"JP",
+	"ID":"JP_RM",
+	"DIL":"LTR"
+},{
 	"NAME":"おかしい日本語",
 	"FLAG":"JP",
 	"ID":"JP_OMG",
