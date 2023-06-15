@@ -2,20 +2,30 @@
 	"NAME":"日本語",
 	"FLAG":"JP",
 	"ID":"JP",
-	"DIL":"LTR"
+	"DIL":"LTR",
+	"CREATE":"るみさん"
 },{
 	"NAME":"るみ日本語",
 	"FLAG":"JP",
 	"ID":"JP_RM",
-	"DIL":"LTR"
+	"DIL":"LTR",
+	"CREATE":"るみさん"
 },{
 	"NAME":"おかしい日本語",
 	"FLAG":"JP",
 	"ID":"JP_OMG",
-	"DIL":"LTR"
+	"DIL":"LTR",
+	"CREATE":"るみさん"
 },{
 	"NAME":"USA english lang",
 	"FLAG":"USA",
 	"ID":"EN_US",
-	"DIL":"LTR"
+	"DIL":"LTR",
+	"CREATE":"るみさん"
+},{
+	"NAME":"Rumi english lang",
+	"FLAG":"USA",
+	"ID":"EN_RM",
+	"DIL":"LTR",
+	"CREATE":"るみさん"
 }]

@@ -1,0 +1,11 @@
+{
+	"Login":"Login",
+	"Regist":"Regist",
+	"BACK":"Back",
+	"LOGIN_INFO":"If you don't know how to log in, click here!",
+	"RUMI_SERVER":"RumiServer",
+	"PASS_VIEW":"パスワードを表示",
+	"RUMISERVER_LOGIN":"Log in with your RumiServer account!",
+	"USER_ID":"User ID",
+	"PASSWORD":"Password"
+}
