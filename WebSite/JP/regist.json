@@ -1,8 +1,15 @@
 {
 	"TITLE":"るみ鯖新規登録",
+	"RIMISERVER":"るみさーばー",
 	"PLACE_UID":"ユーザーID",
 	"PLACE_UNAME":"ユーザー表示名",
 	"PLACE_MAIL":"メアド",
 	"PLACE_PASS":"パスワード",
-	"PLACE_PASS_CHECK":"パスワードもっかいよろ"
+	"PLACE_PASS_CHECK":"パスワードもっかいよろ",
+	"SEX_NAME_MALE":"男",
+	"SEX_NAME_FMALE":"女",
+	"SEX_NAME_NUET":"中",
+	"SEX_NAME_ASEXU":"",
+	"SEX_NAME_ETC":"その他",
+	"SEX_NAME_NONE":"無"
 }
