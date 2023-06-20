@@ -11,5 +11,15 @@
 	"SEX_NAME_NUET":"中",
 	"SEX_NAME_ASEXU":"",
 	"SEX_NAME_ETC":"その他",
-	"SEX_NAME_NONE":"無"
+	"SEX_NAME_NONE":"無",
+	"UID_NONE":"ユーザーIDがありません",
+	"UNAME_ERR":"ユーザーIDが不正です\nA〜Zまでのラテン文字と、0〜9までのアラビア数字のみを使用してください。",
+	"UNAME_NONE":"ユーザー名がありません",
+	"MAIL_NONE":"メアドがありません",
+	"MAIL_ERR":"メアドが不正です！！！",
+	"PASS_NONE":"パスワードがありません！",
+	"SEX_NONE":"は？？？性別がねえぞ？\nなにしたらそうなるんだよ",
+	"LOCATION_NONE":"WHAT 国がないぞ？！？！！？！\n亜空間にお住まいで？",
+	"RS_ERR":"セッション書き込み時にエラーが発生しました、ログイン画面でログインしてみてください。",
+	"UID_CONFLICT":"そのユーザーIDはすでに使用されています！"
 }
