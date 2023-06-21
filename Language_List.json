@@ -28,4 +28,10 @@
 	"ID":"EN_RM",
 	"DIL":"LTR",
 	"CREATE":"るみさん"
+},{
+	"NAME":"Русский",
+	"FLAG":"RUS",
+	"ID":"RU",
+	"DIL":"LTR",
+	"CREATE":"るみさん"
 }]
